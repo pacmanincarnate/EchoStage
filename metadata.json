@@ -1,0 +1,6 @@
+{
+  "name": "EchoStage - Gemini Audio Drama Studio",
+  "description": "Create immersive multi-track audio dramas with Gemini 3.8 Flash TTS, voice persona styling, Lyria AI background music, and interactive timeline editing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
